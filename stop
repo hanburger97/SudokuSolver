@@ -1,0 +1,259 @@
+[33mcommit 7bf410ac8a894b0e479258223cadc787f477c671[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 22:02:53 2017 -0500
+
+    changed display size, uploaded new model
+
+[33mcommit 57abb517b32b05a9c5ee31579181e4af185fef72[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 16:39:10 2017 -0500
+
+    pi stuff
+
+[33mcommit 01f6888f5a13ec77bc00428cf8dadd78b6ce02c2[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 16:29:40 2017 -0500
+
+    thickened number font for output
+
+[33mcommit 2c5141b48923f52cc8e474f446b51172cbc77053[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 16:28:12 2017 -0500
+
+    updated error handling, shows taken image when unsolvable
+
+[33mcommit 74e5bb2c275a908d0c54c7a23433a3744892aedd[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 15:38:48 2017 -0500
+
+    added error handling for invalid sudoku
+
+[33mcommit b077c24bff3b39242a314fbd4d15a9e1c59927e2[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 15:33:42 2017 -0500
+
+    added error handling for no sudoku detected, removed button ui, program now loops on keypress
+
+[33mcommit 5a7390d6fc11c48acf802787e630292177c8a6f0[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 21 14:18:56 2017 -0500
+
+    added output overlay
+
+[33mcommit 49abee17dd06c662aece011d632daa98e43f3f05[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Nov 20 23:17:35 2017 -0500
+
+    integrated cnn
+
+[33mcommit ee959f89678b9ed002ecf8dfd69dd1ea0aeebb97[m
+Author: Ayush Kapur <ayushkapur10@gmail.com>
+Date:   Mon Nov 20 22:44:31 2017 -0500
+
+    Added alternate tensorflow
+
+[33mcommit a2f5998f1f88232da820ca33605c230f9155223a[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Nov 20 21:29:26 2017 -0500
+
+    works in 3.5
+
+[33mcommit 0e170d0eff6213fdb28a75f12f7aacc7e5b0a9e7[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Nov 20 20:51:57 2017 -0500
+
+    added my part
+
+[33mcommit 19a34c7b9fda43c0af1f5137c0c639275e038564[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Mon Nov 20 18:23:11 2017 -0500
+
+    More work on Brain Client
+
+[33mcommit 832af58510c628c03d2603068a979158df50c407[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Mon Nov 20 16:06:25 2017 -0500
+
+    Completed Brain Client multiple predictions
+
+[33mcommit 433ac2c406ef1fb38eca29ab236f7e94da6757be[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Mon Nov 20 15:32:16 2017 -0500
+
+    Finish debugging predicting method in Brain Client
+
+[33mcommit e803fae3ea8a098669a76a0550fe97522237b1b9[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 19:35:11 2017 -0500
+
+    Predict Function completed, Model not fully loaded yet,
+
+[33mcommit a4518ce4ee6f6e6ade7ee88b54d665a422452db3[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 16:53:12 2017 -0500
+
+    Completion of training function in Brain.py
+
+[33mcommit a7f07910c19f172e1895c97c1079819370ac6ecf[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 15:17:42 2017 -0500
+
+    Ayush model
+
+[33mcommit 3f21579f4c17e8bc1405ffddb1f1ee302251ea01[m
+Merge: 2df80d5 774072b
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 14:59:50 2017 -0500
+
+    Merge branch 'ConvNet'
+
+[33mcommit 2df80d59a449c29e8f170195ee567d489dec387b[m
+Merge: 1e54052 1af6e0a
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 14:59:38 2017 -0500
+
+    Merge branch 'master' of git.uwaterloo.ca:se101-f17/se101-f17-group-47
+
+[33mcommit 1e540524e5018ee0bb403af52b2b09af68521780[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 14:58:05 2017 -0500
+
+    more commits
+
+[33mcommit 774072b904366568d6ddbbd98f0706fe98b2304d[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Sun Nov 19 14:57:10 2017 -0500
+
+    Git rm the emnist data file
+
+[33mcommit 1af6e0a1d1e1dd5acd69055b936604a38ea43262[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Wed Nov 15 16:27:16 2017 -0500
+
+    ui
+
+[33mcommit fe178991c19fce50ddd98e9827d3f76c4d492742[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Wed Nov 15 10:59:26 2017 -0500
+
+    soduko solver working
+
+[33mcommit 0d1fbd558c7a163592a8f5dcaf1a0de0e0a5a021[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Tue Nov 14 23:33:28 2017 -0500
+
+    soduko logic
+
+[33mcommit 426368f11b355145ab925af40aa16396b18b9215[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Nov 9 11:00:31 2017 -0500
+
+    Gitignoring Data folder….
+
+[33mcommit 5bdc5118fe03b1b727fa82755aac00dada020b2d[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 23:41:31 2017 -0400
+
+    Finish writing recognition for digits… not trained yet…
+
+[33mcommit a0e98a4a30e8144491e52681caa8877c9916b0f8[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 13:41:02 2017 -0400
+
+    Finish defining NN
+
+[33mcommit b291e5b53f271f20acb48725208bc919a99cd254[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 13:17:14 2017 -0400
+
+    Almost complete defining NN
+
+[33mcommit c6b0cde360e082e68ed302f6ae8c8d9feb74853c[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 12:34:58 2017 -0400
+
+    Adding the EMNIST handwritten character data to Source Control… Yes I know its a large fucking file…
+
+[33mcommit bb407078b272225d027039131d43751ea09d3b45[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 12:33:02 2017 -0400
+
+    Separate the Brain module in its own file
+
+[33mcommit c51b64f8a7b793e68e9f9b47d1dea00582e508cf[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 12:28:54 2017 -0400
+
+    Finish Skeleton for creating the Neural Net YEYEYEYEYEYEYE
+
+[33mcommit ad6faa546ea71f9604ba4fb9826188677002fffa[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 12:09:29 2017 -0400
+
+    Some mods to start building boyyyy
+
+[33mcommit 530bb260de25179877e1c808f978225c59c998cc[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 10:49:09 2017 -0400
+
+    correction to gitignore
+
+[33mcommit efc2d8c7843b13e55a487b222aaf8aa04b27a950[m
+Author: Han Xiao <han@hanxbox.com>
+Date:   Thu Oct 26 10:48:35 2017 -0400
+
+    Gitignore
+
+[33mcommit e04f77a56d7a97d52eb5fe3bcd4c4db89a62d6aa[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Wed Oct 25 15:27:58 2017 -0400
+
+    changed filename
+
+[33mcommit e831cd450561f1840e455425af446562063a1530[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Wed Oct 25 14:01:20 2017 -0400
+
+    added pi camera functionality
+
+[33mcommit 07d7dbef0da419480ffea75daa363272ebafb58c[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Oct 23 19:04:42 2017 -0400
+
+    removed API keu
+
+[33mcommit 25054866c1823f327c322d7596090173ca9fdd67[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Oct 23 18:47:29 2017 -0400
+
+    Updated Readme
+
+[33mcommit ae50260528b15e2ad6fe8c41d3f73b206107edaf[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Mon Oct 23 18:36:25 2017 -0400
+
+    initial commit
+
+[33mcommit 4ec26d2fb4ffd984d71a51b84e792ee4d2e353dd[m
+Author: Rollen D'Souza <rs2dsouz@uwaterloo.ca>
+Date:   Wed Oct 18 23:05:32 2017 -0400
+
+    Proposal Response
+
+[33mcommit 705b02f673dbd43dedd7aeac14139f6aeb2a04d4[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Thu Oct 12 21:01:08 2017 -0400
+
+    changes to proposal
+
+[33mcommit 530dcbc2c88b6c7cd53d82de2b4cd5d83ed458bb[m
+Author: Jordan Dearsley <jordandearsley67@gmail.com>
+Date:   Thu Oct 12 12:12:27 2017 -0400
+
+    added proposal
+
+[33mcommit 9b364d1e379a507ee361d901d9e5cd9ad5346746[m
+Author: Rollen D'Souza <rs2dsouza@uwaterloo.ca>
+Date:   Wed Oct 11 21:34:42 2017 -0400
+
+    Initial Commit

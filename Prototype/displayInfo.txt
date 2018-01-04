@@ -1,0 +1,13 @@
+NEVER run apt-get upgrade, it will blow away the kernel that keeps the display running.
+To run a script at startup, edit the superscript.sh file in /home/pi/. Currently, it contains:
+
+#!/bin/bash
+sleep 22
+sudo ifconfig
+$SHELL
+
+The sleep delays for 22 seconds, which allows the computer to assign an ip, and ifconfig 
+outputs network config information for ssh. To ssh, you need to use the eth0 ip address.
+$SHELL keeps the shell open.
+
+To run other stuff, remove the sleep and sudo ifconfig, and write a shell script.
